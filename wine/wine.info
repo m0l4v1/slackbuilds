@@ -1,7 +1,7 @@
 PRGNAM="wine"
 VERSION="1.6.2"
 HOMEPAGE="http://www.winehq.com/"
-DOWNLOAD="http://ftp.winehq.org/pub/wine/source/1.6/wine-1.6.2.tar.bz2"
+DOWNLOAD="https://ftp.winehq.org/pub/wine/source/1.7/wine-1.7.53.tar.bz2"
 MD5SUM="199c4adc4f294bdbec51f919b34a3798"
 DOWNLOAD_x86_64="UNSUPPORTED"
 MD5SUM_x86_64=""
